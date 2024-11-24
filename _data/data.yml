@@ -19,7 +19,7 @@ sidebar:
     citizenship:
     website: https://example.com/ # Include the full website URL, including "http://" or "https://".
     linkedin: riccardoplaia
-    xing: alandoe
+    xing: 
     github: rcplay
     telegram: # add your nickname without '@' sign
     gitlab:
@@ -54,7 +54,7 @@ sidebar:
         - item: Tennis
           link:
 
-        - item: Photograpy
+        - item: Photography
           link:
         
         - item: Reading
@@ -69,25 +69,11 @@ education:
       - degree: MBA
         university: University of Milano-Bicocca
         time: 2021 - 2023
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+        details: Thesis: Prediction of M&A targets using AI - GPA 3.9-4.0
+      - degree: Computer Science
+        university: University of Milano-Bicocca
+        time: 2006 - 2011
+        details: Thesis: Spatiotemporal analysis of time series
 
 experiences:
     title: Experiences
@@ -243,23 +229,14 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: SQL
         level: 98%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: C#
+        level: 80%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="" target="_blank" rel="nofollow">Riccardo Plaia</a>
