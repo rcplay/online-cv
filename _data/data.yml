@@ -62,14 +62,13 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    summary: |
-      I'm a Manager at Jakala, with a strong background in Location Intelligence and Analytics, where I started my career as an Analyst about 9 years ago. Throughout my journey, I've had the opportunity to work on numerous projects across various industries and countries, taking on multiple roles, which has given me a comprehensive understanding of both products and projects.
+    summary: I'm a Manager at Jakala, with a strong background in Location Intelligence and Analytics, where I started my career as an Analyst about 9 years ago. Throughout my journey, I've had the opportunity to work on numerous projects across various industries and countries, taking on multiple roles, which has given me a comprehensive understanding of both products and projects.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: MBA
+        university: University of Milano-Bicocca
+        time: 2021 - 2023
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
