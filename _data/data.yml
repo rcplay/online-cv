@@ -69,11 +69,13 @@ education:
       - degree: MBA
         university: University of Milano-Bicocca
         time: 2021 - 2023
-        details: Thesis\: Prediction of M-A targets using AI - GPA 3.9-4.0
+        details: | 
+                Thesis in Prediction of M-A targets using AI 
+                GPA 3.9-4.0
       - degree: Computer Science
         university: University of Milano-Bicocca
         time: 2006 - 2011
-        details: Thesis\: Spatiotemporal analysis of time series
+        details: Thesis in Spatiotemporal analysis of time series
 
 experiences:
     title: Experiences
